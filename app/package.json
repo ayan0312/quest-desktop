@@ -1,0 +1,6 @@
+{
+    "name": "quest-desktop",
+    "version": "0.0.1",
+    "description": "create quests,perform quests",
+    "main": "./dist/main.js"
+}

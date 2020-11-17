@@ -1,0 +1,9 @@
+export default {
+    APP_NAME: 'QuestSystem',
+    WINDOW_WIDTH: 1000,
+    WINDOW_HEIGHT: 700,
+    MIN_WIDTH: 1000,
+    MIN_HEIGHT: 700,
+    DEV_WIDTH: 1400,
+    BACKGROUND_COLOR: '#D8D8D8'
+}
